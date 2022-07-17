@@ -1,4 +1,4 @@
-# 
+# Joker
 
 cmd --> `yarn create react-app joke-app --template typescript `
 
