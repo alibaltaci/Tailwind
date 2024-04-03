@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .btn{
+        @apply bg-indigo-200 
+        px-4 
+        h-12 
+        inline-flex 
+        items-center 
+        rounded-lg 
+        hover:bg-indigo-700 
+        hover:text-white 
+        cursor-pointer
+        transition-colors
+    }
+}
